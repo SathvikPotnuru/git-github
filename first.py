@@ -1,2 +1,2 @@
-print("hello there for 3")
-print("version 3")
+print("hello there")
+print("version1")
